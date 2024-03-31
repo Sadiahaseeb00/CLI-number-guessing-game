@@ -1,10 +1,10 @@
 {
-  "name": "sad12-cli-number-guessing-game",
-  "version": "1.0.0",
+  "name": "sad6-cli-number-guessing-game",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
-  "bin": "num guess.js",
+  "bin": "num-guess.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
